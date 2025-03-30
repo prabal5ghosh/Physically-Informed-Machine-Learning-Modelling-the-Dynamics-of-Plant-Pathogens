@@ -14,7 +14,7 @@ Supervisor: **Prof. Silvia Bottini**
 
 Institution: INRAe/UniCA
 
-	## code files
+## code files
 	FINAL_CODE_Prabal_Ghosh_Omics_Research_Ode.ipynb file contains the final implementation for my project and report.
 	ALL_types_of_models_and_approaches_for_trying_differently_prabal_ghosh.ipynb file contains all different ODE models and different methods that I have tested.
 
