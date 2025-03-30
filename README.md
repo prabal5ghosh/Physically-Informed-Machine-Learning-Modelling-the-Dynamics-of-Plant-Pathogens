@@ -1,6 +1,21 @@
 # Physically-Informed-Machine-Learning-Modelling-the-Dynamics-of-Plant-Pathogens
 Physically-Informed Machine Learning for Modelling the Dynamics of Plant-Pathogens Molecular Interactions
 
+                  Name - Prabal Ghosh
+			    Supervisor - Silvia Bottini
+			    Course- Research Project
+                          Msc Data Science and Artificial Intelligence (M2)
+   Université Côte d’Azur, Sophia Antipolis, France
+     <a href="https://univ-cotedazur.eu/msc/msc-data-science-and-artificial-intelligence" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/Logo-univ-nice-cote-dazur.svg/587px-Logo-univ-nice-cote-dazur.svg.png?20211016184305" width="100" height="50" alt="Université Côte d'Azur" align="left"/>
+  </a>
+
+
+## Acknowledgments
+
+Mentor: Prof. Silvia Bottini
+Institution: INRAe/UniCA
+
 
 ## Overview
 This project explores the modeling of gene expression dynamics using Physics-Informed Neural Networks (PINNs) and Neural Ordinary Differential Equations (Neural ODEs(Parametric) ) and hybrid model( Inverse PINN +Neural ODE(Parametric)). The primary objective is to leverage deep learning models to predict gene expression levels over time, incorporating prior biological knowledge through differential equations.
