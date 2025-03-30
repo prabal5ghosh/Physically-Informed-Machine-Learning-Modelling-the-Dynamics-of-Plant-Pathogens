@@ -49,7 +49,9 @@ This project explores the modeling of gene expression dynamics using Physics-Inf
 17. Xiaoyu Zhang, Jingqing Zhang, Kai Sun, Xian Yang, Chengliang Dai, and Yike Guo. *Integrated multi-omics analysis using variational autoencoders: Application to pan-cancer classification.* In 2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), pages 765–769. IEEE, 2019.  
 18. Kookjin Lee and Eric J Parish. *Parameterized neural ordinary differential equations: Applications to computational physics problems.* Proceedings of the Royal Society A, 477(2253):20210162, 2021.
 
+## Contributors
 
+Prabal Ghosh(@prabal5ghosh)
 
 
 ## License
