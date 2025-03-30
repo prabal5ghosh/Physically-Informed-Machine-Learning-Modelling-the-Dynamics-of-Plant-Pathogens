@@ -15,8 +15,9 @@ Supervisor: **Prof. Silvia Bottini**
 Institution: INRAe/UniCA
 
 ## code files
-	FINAL_CODE_Prabal_Ghosh_Omics_Research_Ode.ipynb file contains the final implementation for my project and report.
-	ALL_types_of_models_and_approaches_for_trying_differently_prabal_ghosh.ipynb file contains all different ODE models and different methods that I have tested.
+	FINAL_CODE_Prabal_Ghosh_Omics_Research_Ode.ipynb file contains the final implementation for my project and report.Available in **main** branch.
+ 
+	ALL_types_of_models_and_approaches_for_trying_differently_prabal_ghosh.ipynb file contains all different ODE models and different methods that I have tested.Available in **trying-different-models-and-methods** branch.
 
 ## Overview
 This project explores the modeling of gene expression dynamics using Physics-Informed Neural Networks (PINNs) and Neural Ordinary Differential Equations (Neural ODEs(Parametric) ) and hybrid model( Inverse PINN +Neural ODE(Parametric)). The primary objective is to leverage deep learning models to predict gene expression levels over time, incorporating prior biological knowledge through differential equations.
